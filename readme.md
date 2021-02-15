@@ -4,4 +4,4 @@ This is the second project in Brad Traversy's [Modern JavaScript From The Beginn
 
 ## Working Netlify Page:
 
-https://trevinstasklist.netlify.app/
+https://trevinsloancalculator.netlify.app/
